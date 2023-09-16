@@ -1,0 +1,8 @@
+name: BlockShuffle
+version: ${project.version}
+main: tech.sebazcrc.blockshuffle.Main
+api-version: 1.16
+authors: [SebazCRC]
+commands:
+  shuffle:
+    aliases: [bs]
